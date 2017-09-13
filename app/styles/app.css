@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300);
+
+html, body {
+  font-family: 'Source Sans Pro', sans-serif;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  color: #535353;
+}
+
+h1 {
+  font-size: 105%;
+  font-weight: 300;
+}
+
+.challenge-accepted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.button-container {
+  border: 3px dashed #eee6fa;
+  padding: 137px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #579DED;
+  padding: 7px 14px;
+  border: none;
+  border-radius: 2px;
+  font-size: 16px;
+  margin: 10px 0;
+  cursor: pointer;
+}
+
+.outputArea {
+  border: 1px dashed #ccc;
+  padding: 10px;
+  height: 100px;
+}

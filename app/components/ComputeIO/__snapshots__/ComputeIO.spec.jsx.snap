@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ComputeIO Renders Correctly 1`] = `
+<section
+  style={
+    Object {
+      "fontSize": "16px",
+      "textAlign": "left",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "marginBottom": "10px",
+      }
+    }
+  >
+    Input:
+  </div>
+  <input
+    onChange={[Function]}
+    style={
+      Object {
+        "border": "1px solid #ccc",
+        "borderRadius": "2px",
+        "fontSize": "15px",
+        "height": "21px",
+        "padding": "5px 12px",
+        "width": "100%",
+      }
+    }
+    value=""
+  />
+  <button
+    className={undefined}
+    onClick={[Function]}
+    onKeyPress={[Function]}
+  >
+    Execute
+  </button>
+  <div
+    style={
+      Object {
+        "marginBottom": "10px",
+      }
+    }
+  >
+    Output:
+  </div>
+  <div
+    className={undefined}
+  >
+    
+  </div>
+</section>
+`;
